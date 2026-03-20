@@ -1,0 +1,6 @@
+a=int(input("Enter number: "))
+b=int(input("Enter number: "))
+c=int(input("Enter number: "))
+lar=max(a,b,c)
+small=min(a,b,c)
+print("Greatest number is: ",lar,small)

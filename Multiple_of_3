@@ -1,0 +1,6 @@
+a=int(input("Enter the number: "))
+if(a%3==0):
+    print("Number is multiple of 3:",a)
+else:
+    print("Number is not multiple of 3:",a)
+    
