@@ -1,0 +1,6 @@
+a=("enter the cost of the item")
+b=("enter the tax rate")
+a=float(input(a))
+b=float(input(b))
+c=a+(a*b/100)       
+print("the total cost of the item with tax is",c)

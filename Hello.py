@@ -1,0 +1,1 @@
+print("When does a man dies")
